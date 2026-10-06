@@ -1,0 +1,57 @@
+{
+  "schema_version": "3.1",
+  "revision": 0,
+  "project": {
+    "id": "",
+    "mode": "strict-local-redraw",
+    "route": "storyboard",
+    "status": "intake",
+    "language": "zh-CN",
+    "capability_level": "unknown",
+    "capability_evidence": {}
+  },
+  "defaults": {
+    "aspect_ratio": "9:16",
+    "duration_seconds": 4,
+    "video_camera": "fixed",
+    "remove_subtitles": true,
+    "remove_usernames": true,
+    "remove_platform_ui": true,
+    "remove_watermarks": true
+  },
+  "sources": [],
+  "references": {
+    "characters": [],
+    "products": [],
+    "scenes": []
+  },
+  "request": {
+    "authorized_changes": [],
+    "explicit_locks": [],
+    "requested_count": null,
+    "count_semantics": "natural",
+    "regions": [],
+    "resolutions": [],
+    "downgrade_acceptance": null,
+    "cleanup_authorized": false
+  },
+  "shots": [],
+  "base_frames": [],
+  "continuity": {
+    "outfits": [],
+    "rooms": [],
+    "products": [],
+    "objects": []
+  },
+  "fusion": {
+    "contributions": []
+  },
+  "qa": {
+    "failures": []
+  },
+  "approval": {
+    "records": []
+  },
+  "notes": [],
+  "events": []
+}

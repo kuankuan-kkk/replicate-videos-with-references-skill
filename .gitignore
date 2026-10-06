@@ -1,0 +1,47 @@
+# Local environments and editor metadata
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Secrets / authentication
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+auth.json
+# Real jobs and generated evidence must remain private
+work/
+projects/
+runtime/
+uploads/
+outputs/
+logs/
+project.json
+project.yaml
+project.yml
+*.lock
+*.log
+*preflight*.json
+*report*.json
+# No user media or documents in this code-only repository
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.pdf
+*.docx
+*.xlsx
+*.zip

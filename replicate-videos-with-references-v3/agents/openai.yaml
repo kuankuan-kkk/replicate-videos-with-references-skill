@@ -1,0 +1,13 @@
+interface:
+  display_name: "参考视频分镜复刻 v3.1"
+  short_description: "逐镜取证、授权局部重绘、多视频融合、连续性质检与版本确认"
+  default_prompt: "Use $replicate-videos-with-references-v3 to inspect my full reference videos, preserve source-supported camera, action, and UGC light, and change only the regions I explicitly authorize."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  products:
+    - "chatgpt"
+    - "codex"
+    - "api"
+    - "atlas"
+  allow_implicit_invocation: true

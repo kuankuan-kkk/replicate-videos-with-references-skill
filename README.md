@@ -94,8 +94,8 @@ python -m unittest discover -s replicate-videos-with-references-v3/tests -v
 
 仓库不包含个人简历、联系方式、客户素材、运营数据、运行状态、凭据或既往 Git 历史。请把真实工作项目放在仓库外；勿将日志、视频、人物图或项目清单直接提交到 GitHub。详见[隐私说明](docs/PRIVACY.md)。
 
-发布准备阶段尚未指定开源许可证，不能把本仓库视为已经授予任意再分发或商业使用许可。公开前由维护者另行确认许可证。请确保参考素材、人像和产品图具有必要授权；不要制作冒充真实人物或误导观众的内容。
+本项目采用 [MIT 许可证](LICENSE)：可自由使用、修改、再分发与商用，需保留原版权与许可声明。请确保参考素材、人像和产品图具有必要授权；不要制作冒充真实人物或误导观众的内容。
 
 ## English summary
 
-A traceable reference-video replication Skill (v3.1.0) for AI assistants. It separates observed evidence, authorized edits, locked regions, continuity states, quality review and version-bound user approvals. Supports strict local redraw, multi-video fusion and scene transplant. Local scripts validate evidence and workflow state; model access and image/video generation are not bundled. Read the Chinese usage and privacy guides before running on real media. No open-source license has been selected yet.
+A traceable reference-video replication Skill (v3.1.0) for AI assistants. It separates observed evidence, authorized edits, locked regions, continuity states, quality review and version-bound user approvals. Supports strict local redraw, multi-video fusion and scene transplant. Local scripts validate evidence and workflow state; model access and image/video generation are not bundled. Read the Chinese usage and privacy guides before running on real media. Licensed under the MIT License.
